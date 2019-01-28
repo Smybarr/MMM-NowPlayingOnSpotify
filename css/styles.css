@@ -50,6 +50,8 @@
 
 .NPOS_icon {
   margin-right: 1em;
+  height: 10px;
+  width: 10px;
 }
 
 progress.NPOS_progress {
